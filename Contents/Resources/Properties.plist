@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parent</key>
+	<string>at.obdev.LaunchBar.theme.Dark</string>
+	<key>PCLightGrey</key>
+	<string>#bcbcbc</string>
+	<key>PCDarkGrey</key>
+	<string>#878787</string>
+	<key>PCDarkBlue</key>
+	<string>#005f87</string>
+	<key>PCMagenta</key>
+	<string>#d70087</string>
+	<key>PCViolet</key>
+	<string>#8700af</string>
+	<key>PCOrange</key>
+	<string>#d75f00</string>
+	<key>PCLightBlue</key>
+	<string>#0087af</string>
+	<key>defaultFontName</key>
+	<string>SFCompactRounded-Regular</string>
+	<key>titleFontName</key>
+	<string>@defaultFontName</string>
+	<key>subtitleFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>labelFontName</key>
+	<string>SFCompactRounded-Bold</string>
+	<key>inputFontName</key>
+	<string>@defaultFontName</string>
+	<key>badgeFont</key>
+	<string>SFCompactRounded-Semibold</string>
+    <key>selectionHighlightColor</key>
+    <string>@PCDarkBlue</string>
+	<key>defaultShadowOffset</key>
+	<string>30</string>
+	<key>defaultDimmedTextColor</key>
+	<string>0.5 0.5 0.5</string>
+	<key>defaultEmphasizedFontName</key>
+	<string>SFCompactRounded-Semibold</string>
+	<key>defaultTextColor</key>
+	<string>@PCLightBlue</string>
+	<key>defaultTextShadowColor</key>
+	<string>#00000033</string>
+	<key>defaultTextShadowColor@2x</key>
+	<string>clearColor</string>
+	<key>inputAreaAbbreviationBaselineOffset</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationFontName</key>
+	<string>SFCompactRounded-Bold</string>
+	<key>inputAreaAbbreviationFontSize</key>
+	<integer>13</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationRadius</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationThickness</key>
+	<integer>2</integer>
+	<key>inputAreaAbbreviationTextColor</key>
+	<string>@PCMagenta + 0.2</string>
+	<key>inputAreaActionMenuAreaBackgroundColor</key>
+	<string>@PCLightGrey</string>
+	<key>inputAreaActionMenuAreaEdgeInsets</key>
+	<string>10 10 10 10</string>
+	<key>inputAreaHeight</key>
+	<integer>55</integer>
+	<key>inputAreaNonKeyWindowTextColorOffsetLevel</key>
+	<real>-0.3</real>
+	<key>inputAreaTextColor</key>
+	<string>@defaultTextColor</string>
+	<key>itemListEdgeInsets</key>
+	<string>3 4 4 4</string>
+	<key>itemListExtraDetailsBaselineOffset</key>
+	<integer>0</integer>
+	<key>itemListExtraDetailsFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>itemListGridLineShadowHeight</key>
+	<integer>0</integer>
+	<key>itemListSubtitleInSeparateLine</key>
+	<string>true</string>
+	<key>itemListRowHeight</key>
+	<integer>45</integer>
+	<key>itemListLabeledExtraDetailsBackgroundColor</key>
+	<string>@PCMagenta></string>
+	<key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
+	<integer>10</integer>
+	<key>itemListLabeledExtraDetailsBadgeHeight</key>
+	<integer>20</integer>
+	<key>itemListLabeledExtraDetailsBaselineOffset</key>
+	<integer>2</integer>
+	<key>itemListLabeledExtraDetailsFontName</key>
+	<string>@labelFontName</string>
+	<key>itemListLabeledExtraDetailsFontSize</key>
+	<integer>12</integer>
+	<key>itemListLabeledExtraDetailsPadding</key>
+	<integer>8</integer>
+	<key>itemListLabeledExtraDetailsTextColor</key>
+	<string>@PCViolet</string>
+	<key>itemListLabeledExtraDetailsSelectedBackgroundColor</key>
+	<string>@PCDarkBlue</string>
+	<key>itemListLabeledExtraDetailsDeemphasizedFontSize</key>
+	<integer>12</integer>
+	<key>itemListLabelCircleDiameter</key>
+	<integer>39</integer>
+	<key>itemListNavigationArrowImage</key>
+	<string>NavigationArrow.png</string>
+	<key>itemListScrollerColor</key>
+	<string>1 1 1 0.2</string>
+	<key>itemListScrollerPadding</key>
+	<integer>6</integer>
+	<key>itemListSelectionCornerRadius</key>
+	<integer>3</integer>
+	<key>itemListSelectionHighlightColor</key>
+	<string>@selectionHighlightColor</string>
+	<key>itemListSelectionSubsearchHighlightColor</key>
+	<string>@selectionHighlightColor</string>
+	<key>itemListSeparatorLowerLineColor</key>
+	<string>1 1 1 0.1</string>
+	<key>itemListSeparatorLowerLineThickness</key>
+	<integer>5</integer>
+	<key>itemListSeparatorUpperLineColor</key>
+	<string>@PCViolet - 0.2</string>
+	<key>itemListSeparatorUpperLineThickness</key>
+	<integer>2</integer>
+	<key>itemListStagedItemHighlightLevel</key>
+	<real>0.3</real>
+	<key>itemListSubtitleBaselineOffset</key>
+	<integer>1</integer>
+	<key>itemListSubtitleFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>itemListSubtitleTextColor</key>
+	<string>@PCViolet - 0.2</string>
+	<key>itemListTitleBaselineOffset</key>
+	<integer>1</integer>
+	<key>itemListTitleFontName</key>
+	<string>@titleFontName</string>
+	<key>textInputBackgroundColor</key>
+	<string>@PCLightGrey</string>
+	<key>textInputEdgeInsets</key>
+	<string>8 8 16 8</string>
+	<key>textInputFieldEditorEdgeInsets</key>
+	<string>0 0 0 0</string>
+	<key>textInputFieldTextContainerInset</key>
+	<string>0 -5</string>
+	<key>textInputFocusRingColor</key>
+	<string>0 0 0 0 0</string>
+	<key>textInputFocusRingLineWidth</key>
+	<integer>0</integer>
+	<key>textInputFontName</key>
+	<string>SFCompactRounded-Regular</string>
+	<key>textInputPlaceholderTextColor</key>
+	<string>@PCOrange - 0.5</string>
+	<key>textInputSelectedTextBackgroundColor</key>
+	<string>#eeeeee - 0.1</string>
+	<key>textInputTitleFontName</key>
+	<string>SFCompactRounded-Semibold</string>
+	<key>windowBackgroundBlurRadius</key>
+	<integer>5</integer>
+	<key>windowBackgroundColor</key>
+	<string>@PCLightGrey</string>
+	<key>windowBackgroundColorIsDark</key>
+	<false/>
+	<key>windowBackgroundIsVibrant</key>
+	<true/>
+	<key>windowBackgroundVibrancy</key>
+	<integer>1</integer>
+	<key>windowCornerRadius</key>
+	<integer>6</integer>
+	<key>windowHasInnerShadow</key>
+	<false/>
+	<key>windowShadowStyle</key>
+	<integer>3</integer>
+	<key>windowVibrantBackgroundColor</key>
+	<string>@PCDarkGrey</string>
+	<key>itemListGridLineHeight</key>
+	<integer>0</integer>
+	<key>itemListGridLineShadowHeight</key>
+	<integer>0</integer>
+	<key>itemListGridLineGradient</key>
+	<dict>
+		<key>0.0</key>
+		<string>1 1 1 0.05</string>
+		<key>0.1</key>
+		<string>1 1 1 0.1</string>
+		<key>0.9</key>
+		<string>1 1 1 0.1</string>
+		<key>1.0</key>
+		<string>1 1 1 0.05</string>
+	</dict>
+</dict>
+</plist>
