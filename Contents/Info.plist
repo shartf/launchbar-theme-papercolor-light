@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.ptarh.LaunchBar.theme.PaperColorLight</string>
+	<string>com.ptarh.LaunchBar.theme.PaperColor</string>
 	<key>CFBundleName</key>
-	<string>Papercolor Light</string>
+	<string>PaperColor Light</string>
 </dict>
 </plist>
