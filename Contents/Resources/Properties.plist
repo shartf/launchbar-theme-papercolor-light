@@ -112,7 +112,7 @@
 	<key>textInputBackgroundColor</key>
 	<string>@PCLightGrey</string>
 	<key>textInputEdgeInsets</key>
-	<string>8 8 16 8</string>
+	<string>8 8 10 8</string>
 	<key>textInputFieldEditorEdgeInsets</key>
 	<string>0 0 0 0</string>
 	<key>textInputFieldTextContainerInset</key>
